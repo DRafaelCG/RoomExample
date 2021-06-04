@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room Example</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="agregar">Agregar</string>
+</resources>
